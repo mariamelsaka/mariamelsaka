@@ -26,4 +26,6 @@ operational efficiency.
    <img src="https://github.com/user-attachments/assets/d1ec64fb-3eef-48be-af06-af152dc6bd98" width="65" alt="react logo"  />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://github.com/user-attachments/assets/a4399d5a-f777-4b94-88c7-ccad7695e435" alt="tailwind-css" width="65" height="65" />
+  <img src="https://github.com/user-attachments/assets/ea5817b3-3ec3-404b-a663-5e32c6914461" alt="bootstrap" width="65" height="65" />
 </div>
