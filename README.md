@@ -7,6 +7,8 @@ using Kore.ai, Liferay, and jbpm, improving user engagement and system efficienc
 React/Ts, building my first personal project to deepen my expertise in this framework. I have successfully delivered
 responsive and user-friendly interfaces that led to enhanced customer satisfaction and user retention.
 
+I'm passionate about building clean, responsive interfaces and delivering user-friendly experiences. Inspired by my graduation project—where I developed an AI model, applied computer vision techniques, and integrated it into a web platform—I’m currently seeking to grow both professionally and academically by expanding my experience in AI development, building models, and integrating them with web technologies, aiming to create innovative solutions that bridge both fields.
+
 ### **My Main Roles in My Current Position**
 * Developed and maintained enterprise-level portals using Liferay, ensuring seamless functionality for +1 tasks.
 * Streamlined business processes by automating workflows with jbpm, reducing manual effort by 50% and improving
