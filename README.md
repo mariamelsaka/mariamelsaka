@@ -1,16 +1,16 @@
 
 
 # 👩🏻‍💻 Mariam Elsaka
-I am a Front-End Developer with over 3 years of experience specializing in HTML, CSS, JavaScript, and Bootstrap.
+I am a Front-End Developer with over 3 years of experience specializing in HTML, CSS,Tailwind CSS, Bootstrap, JavaScript,TypeScript and React.
 In my current role as a Software Specialist-DXP at Giza Systems, I work on large-scale, enterprise-level projects
-using Kore.ai, Liferay, and jbpm, improving user engagement and system efficiency. Recently, I began working with
-React/Ts, building my first personal project to deepen my expertise in this framework. I have successfully delivered
+using Kore.ai, Liferay, and jbpm, improving user engagement and system efficiency. For the last Year, I began working with
+React/Ts,Recently i started building my first personal project to deepen my expertise in this framework. I have successfully delivered
 responsive and user-friendly interfaces that led to enhanced customer satisfaction and user retention.
 
 I'm passionate about building clean, responsive interfaces and delivering user-friendly experiences. Inspired by my graduation project—where I developed an AI model, applied computer vision techniques, and integrated it into a web platform—I’m currently seeking to grow both professionally and academically by expanding my experience in AI development, building models, and integrating them with web technologies, aiming to create innovative solutions that bridge both fields.
 
 ### **My Main Roles in My Current Position**
-* Developed and maintained enterprise-level portals using Liferay, ensuring seamless functionality for +1 tasks.
+* Developed and maintained enterprise-level portals using Liferay, ensuring seamless functionality for +1 projects.
 * Streamlined business processes by automating workflows with jbpm, reducing manual effort by 50% and improving
 operational efficiency.
 * Implemented and integrated AI-powered chatbots using Kore.ai, enhancing customer service response time by 50%
